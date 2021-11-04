@@ -40,7 +40,7 @@ Kaggle Master
 
 ## Publications
 ### INTERNATIONAL CONFERENCE
-* Abe, Kenshi, and Yusuke Kaneko. "Off-Policy Exploitability-Evaluation in Two-Player Zero-Sum Markov Games." Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems. 2021.
+* Abe, Kenshi, and Yusuke Kaneko. "Off-Policy Exploitability-Evaluation in Two-Player Zero-Sum Markov Games." AAMAS 2021 (Full Paper)
 * Morishita, Gota, et al. "Online Learning for Bidding Agent in First Price Auction." Workshop on Reinforcement Learning in Games in Thirty-Fourth AAAI Conference on Artificial Intelligence. 2020.
 
 ### PREPRINTS
@@ -51,6 +51,7 @@ Kaggle Master
 
 ## Kaggle
 https://www.kaggle.com/ykaneko1992
+
 Kaggle Master
 
 ## Talks
