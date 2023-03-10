@@ -47,6 +47,7 @@ Kaggle Master
 * Kato, Masahiro, and Yusuke Kaneko. "Off-policy evaluation of bandit algorithm from dependent samples under batch update policy." arXiv preprint arXiv:2010.13554 (2020).
 
 ### INTERNAL CONFERENCE
+* 伊藤寛武, and 金子雄祐. "リターゲティング広告配信における不連続回帰を用いたリフト効果分析." 人工知能学会全国大会論文集 第 36 回 (2022). 一般社団法人 人工知能学会, 2022.(全国大会優秀賞受賞)
 * 阿部拳之, 金子雄祐: “二人零和マルコフゲームにおけるオフ方策評価のためのQ学習”, 第25回ゲームプログラミングワークショップ, 2020.
 
 ## Kaggle
