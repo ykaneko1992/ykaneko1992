@@ -23,11 +23,13 @@ Kaggle Master
   * Building prediction models for ad platform
   * A/B testing
   * Ad Management
-* Dynalyst, 2019.09 - present
+* Dynalyst, 2019.09 - 2023.10
   * data science team manager / product manager
   * A/B testing
   * Building an A/B testing platform for ad creatives,  Bandit Algorithms
   * Building recommendation engines, prediction models
+* Prism Partner, 2023.4 - present
+  * data science team manager
 * Data Science Center, 2021.10 - present
 
 ## Education
