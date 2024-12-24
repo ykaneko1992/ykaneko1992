@@ -28,7 +28,8 @@ Kaggle Master
   * A/B testing
   * Building an A/B testing platform for ad creatives,  Bandit Algorithms
   * Building recommendation engines, prediction models
-  * PdM for new menu
+  * Product Manager, New Ad Solutions at Dynalyst
+    * BEST LEADER OF THE YEAR in CA BASE AWARD 2022  
 * Prism Partner, 2023.4 - present
   * data science team manager
 * Data Science Center, 2021.10 - present
