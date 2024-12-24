@@ -28,6 +28,7 @@ Kaggle Master
   * A/B testing
   * Building an A/B testing platform for ad creatives,  Bandit Algorithms
   * Building recommendation engines, prediction models
+  * PdM for new menu
 * Prism Partner, 2023.4 - present
   * data science team manager
 * Data Science Center, 2021.10 - present
@@ -45,6 +46,7 @@ Kaggle Master
 * 伊藤寛武, 金子雄祐, 安井翔太: 『Pythonで学ぶ効果検証入門』 2024 [(Amazon Link)](https://www.amazon.co.jp/Python%E3%81%A7%E5%AD%A6%E3%81%B6%E5%8A%B9%E6%9E%9C%E6%A4%9C%E8%A8%BC%E5%85%A5%E9%96%80-%E5%AE%89%E4%BA%95-%E7%BF%94%E5%A4%AA/dp/427423116X)
 
 ### INTERNATIONAL CONFERENCE
+* Daiki Katsuragawa, Yusuke Kaneko, Kaito Ariu, Kenshi Abe. Efficient Creative Selection in Online Advertising using Top-Two Thompson Sampling. WSDM (Industry Day). 2025
 * Abe, Kenshi, and Yusuke Kaneko. "Off-Policy Exploitability-Evaluation in Two-Player Zero-Sum Markov Games." AAMAS 2021 (Full Paper)
 * Morishita, Gota, et al. "Online Learning for Bidding Agent in First Price Auction." Workshop on Reinforcement Learning in Games in Thirty-Fourth AAAI Conference on Artificial Intelligence. 2020.
 
@@ -61,6 +63,11 @@ https://www.kaggle.com/ykaneko1992
 Kaggle Master
 
 ## Talks
+### 2024
+
+* [Pythonで学ぶ効果検証入門 ー Forkwell Library #57](https://forkwell.connpass.com/event/323515/)
+* 因果推論の計量経済学刊行記念トークイベント([link](https://x.com/keisemi/status/1839081196250345483))
+
 ### 2021
 * "clustering for private interest-based advertising" & "learning a logistic model from aggregated data"
   * KDD2021 参加報告&論文読み会 2021/09/24 [(slide)](https://speakerdeck.com/ykaneko1992/kdd-2021-du-mihui-clustering-for-private-interest-based-advertising-and-learning-a-logistic-model-from-aggregated-data)
@@ -74,6 +81,17 @@ Kaggle Master
 ### 2018
 * 企業の中の経済学
   * 東京大学駒場祭 [(slide)](https://speakerdeck.com/ykaneko1992/qi-ye-nozhong-nojing-ji-xue)
+
+## Others
+
+* [AI事業本部のデータサイエンティスト伊藤 寛武・金子 雄祐が執筆し、AI Lab研究員の安井 翔太が監修した「Pythonで学ぶ効果検証入門」が発売開始](https://www.cyberagent.co.jp/techinfo/news/detail/id=30264)
+* [AI事業本部「Dynalyst」のデータサイエンティスト伊藤 寛武・金子 雄祐による論文が人工知能学会全国大会(JSAI2022)において全国大会優秀賞を受賞](https://www.cyberagent.co.jp/techinfo/news/detail/id=28203)
+* [AI Lab、マルチエージェント分野のトップカンファレンス「AAMAS 2021」にて論文採択](https://www.cyberagent.co.jp/news/detail/id=25642)
+* [ビジネスの現場で価値を出すデータサイエンティストへーサイバーエージェントの「DSOps研修」とはー](https://www.cyberagent.co.jp/way/list/detail/id=27366)
+* [新卒データサイエンティスト研修「DSOps研修」とは何か?](https://developers.cyberagent.co.jp/blog/archives/34628/)
+* [CA × atmaCup 2ndを開催しました](https://developers.cyberagent.co.jp/blog/archives/28220/)
+* [CA × atmaCupを開催しました & 開催準備悲喜こもごも](https://developers.cyberagent.co.jp/blog/archives/24684/)
+* [アドテクスタジオのインターン「アドテクコンペ」を開催しました](https://developers.cyberagent.co.jp/blog/archives/18636/)
 
 
 <!--
