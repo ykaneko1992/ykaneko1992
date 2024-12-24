@@ -62,6 +62,13 @@ https://www.kaggle.com/ykaneko1992
 
 Kaggle Master
 
+* Santander Value Prediction Challenge([link](https://www.kaggle.com/competitions/santander-value-prediction-challenge)) 12/4463
+* PLAsTiCC Astronomical Classification([link](https://www.kaggle.com/competitions/PLAsTiCC-2018)) 27/1089
+* PetFinder.my Adoption Prediction([link](https://www.kaggle.com/competitions/petfinder-adoption-prediction)) 36/2023
+* Predicting Molecular Properties([link](https://www.kaggle.com/competitions/champs-scalar-coupling)) 90/2737
+* Home Credit Default Risk([link](https://www.kaggle.com/competitions/home-credit-default-risk)) 145/7176
+* AI Mathematical Olympiad - Progress Prize 1([link](https://www.kaggle.com/competitions/ai-mathematical-olympiad-prize)) 64/1161
+
 ## Talks
 ### 2024
 
