@@ -11,6 +11,7 @@ Kaggle Master
 * causal inference
 * A/B test
 * Reinforcement Learning
+* Business Applications of LLMs
 * Python, Scala
 * Kaggle
 
@@ -32,7 +33,12 @@ Kaggle Master
     * BEST LEADER OF THE YEAR in CA BASE AWARD 2022  
 * Prism Partner, 2023.4 - present
   * data science team manager
+  * Development, Feature Implementation, and System Design of Targeted Advertising Delivery Systems
+  * Development, Feature Implementation, and System Design of Retail Promotional Advertising Delivery Systems
+  * Implementation of Advanced Technology in Society (Specific Achievement: Accepted for WSDM Industry Day)
+  * Operations Cost Reduction and New Feature Planning through LLM Applications
 * Data Science Center, 2021.10 - present
+  * Team Leader for Internal Evaluation and Professional Development Initiatives
 
 ## Education
 * Department of Statistics, Graduate school of Economics, University of Tokyo(M.A.), 2016.04 - 2018.03
