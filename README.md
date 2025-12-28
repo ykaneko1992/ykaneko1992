@@ -25,14 +25,15 @@ Kaggle Master
   * A/B testing
   * Ad Management
 * Dynalyst, 2019.09 - 2023.10
-  * data science team manager / product manager
+  * Data Science Team Manager
   * A/B testing
   * Building an A/B testing platform for ad creatives,  Bandit Algorithms
   * Building recommendation engines, prediction models
 * GAIN Ads 2021.12 - 2023.10
-  * Product Manager
-  * Led the launch of a new business and achieved single-month profitability
-  * BEST LEADER OF THE YEAR in CA BASE AWARD 2022  
+  * Project Manager / Data Science Team Manager
+  * New Business Strategy: Partnered with the General Manager to lead the strategic roadmap and development of "GAIN ADS" (a new User Acquisition DSP).
+  * Cross-functional Leadership: Orchestrated collaboration between Business, Engineering, and Data Science units to execute a high-performance bidding strategy.
+  * Revenue Impact: Successfully scaled the initiative into a core revenue pillar for the division, expanding the product portfolio beyond retargeting.
 * Prism Partner, 2023.4 - present
   * data science team manager
   * Development, Feature Implementation, and System Design of Targeted Advertising Delivery Systems
@@ -100,6 +101,8 @@ Kaggle Master
 
 ## Others
 
+* [研究と事業の融合がもたらす革新― バンディットアルゴリズムの社会実装を成功に導いた舞台裏](https://www.cyberagent.co.jp/way/list/detail/id=31632)
+* [世界が認めた技術で革新する広告ビジネス　Prism Partnerの挑戦](https://www.cyberagent.co.jp/way/list/detail/id=31458)
 * [AI事業本部のデータサイエンティスト伊藤 寛武・金子 雄祐が執筆し、AI Lab研究員の安井 翔太が監修した「Pythonで学ぶ効果検証入門」が発売開始](https://www.cyberagent.co.jp/techinfo/news/detail/id=30264)
 * [AI事業本部「Dynalyst」のデータサイエンティスト伊藤 寛武・金子 雄祐による論文が人工知能学会全国大会(JSAI2022)において全国大会優秀賞を受賞](https://www.cyberagent.co.jp/techinfo/news/detail/id=28203)
 * [AI Lab、マルチエージェント分野のトップカンファレンス「AAMAS 2021」にて論文採択](https://www.cyberagent.co.jp/news/detail/id=25642)
