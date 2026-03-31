@@ -53,7 +53,8 @@ Kaggle Master
 
 ## Publications
 ### BOOKS
-* 伊藤寛武, 金子雄祐, 安井翔太: 『Pythonで学ぶ効果検証入門』 2024 [(Amazon Link)](https://www.amazon.co.jp/Python%E3%81%A7%E5%AD%A6%E3%81%B6%E5%8A%B9%E6%9E%9C%E6%A4%9C%E8%A8%BC%E5%85%A5%E9%96%80-%E5%AE%89%E4%BA%95-%E7%BF%94%E5%A4%AA/dp/427423116X)
+* 安井翔太、伊藤寛武, 金子雄祐 : 『「原因」と「結果」を武器にする思考　エビデンスベースで成果を上げる効果検証』 2026 日経BP 日本経済新聞出版 [(Amazon Link)](https://amzn.asia/d/03Av3WjY)
+* 伊藤寛武, 金子雄祐, 安井翔太: 『Pythonで学ぶ効果検証入門』 2024 オーム社 [(Amazon Link)](https://www.amazon.co.jp/Python%E3%81%A7%E5%AD%A6%E3%81%B6%E5%8A%B9%E6%9E%9C%E6%A4%9C%E8%A8%BC%E5%85%A5%E9%96%80-%E5%AE%89%E4%BA%95-%E7%BF%94%E5%A4%AA/dp/427423116X)
 
 ### INTERNATIONAL CONFERENCE
 * Daiki Katsuragawa, Yusuke Kaneko, Kaito Ariu, Kenshi Abe. Efficient Creative Selection in Online Advertising using Top-Two Thompson Sampling. WSDM (Industry Day). 2025
