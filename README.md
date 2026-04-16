@@ -102,6 +102,7 @@ Kaggle Master
 
 ## Others
 
+* [広告データサイエンスの全体像：輪読会9回分の発表資料と300pイントロスライドを公開します](https://developers.cyberagent.co.jp/blog/archives/55639/)
 * [研究と事業の融合がもたらす革新― バンディットアルゴリズムの社会実装を成功に導いた舞台裏](https://www.cyberagent.co.jp/way/list/detail/id=31632)
 * [世界が認めた技術で革新する広告ビジネス　Prism Partnerの挑戦](https://www.cyberagent.co.jp/way/list/detail/id=31458)
 * [AI事業本部のデータサイエンティスト伊藤 寛武・金子 雄祐が執筆し、AI Lab研究員の安井 翔太が監修した「Pythonで学ぶ効果検証入門」が発売開始](https://www.cyberagent.co.jp/techinfo/news/detail/id=30264)
